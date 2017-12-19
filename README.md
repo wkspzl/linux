@@ -102,7 +102,7 @@ enabled=1
 `sudo chkconfig mongod on`
 ###### 启动MongoDB
 `sudo service mongod start`
-## 8. 安装nvm（node）
+## 8. 安装nvm（node）http://blog.csdn.net/feifei159/article/details/57079672
 `wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash`
 
 exit退出重新登录ssh
